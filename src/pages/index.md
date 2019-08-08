@@ -1,13 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: U-Clean Tree Service
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: UCTS
+subheading: Finally, an affordable tree service!
 mainpitch:
   title: Why UCTS?
   description: >
-    Finally, an affordable tree service! We cut, you clean.
+    The concept is simple. We cut, you clean.
+
+    bla
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
