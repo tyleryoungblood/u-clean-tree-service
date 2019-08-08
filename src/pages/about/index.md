@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
+templateKey: "about-page"
 path: /about
-title: About our values
+title:
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### What We Do
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Centrally located near Winnsboro, U-Clean Tree Service provides the following services throughout the Midlands of South Carolina.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+- Tree Trimming
+- Tree Felling
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### How You Save
+
+The concept is pretty simple. We cut, you clean. When the property owner takes care of the cleanup, the required crew and equipment is drastically reduced. This can potentially save the homeowner thousands over a full-service tree company.
+
+We have nothing against full-service tree companies. They simply charge more because they have to. In order to trim, fell, and properly cleanup, a full-service company requires multiple vehicles and multiple people. There's usually a bucket truck towing a trailer and skidsteer, a box truck towing a chipper, and often a grapple or dump truck to haul away what can't be chipped. So when their bids come back at over \$1,000 a tree, you can understand why. They have insurance, fuel, and maintenance on multiple commercial vehicles and pieces of heavy equipment, as well as several people on the payroll.
+
+### Are We Right For You?
+
+If you answer YES to any of the following, we are probably a good fit:
+
+- You're able bodied and the type of person that wants to get involved when a contractor shows up.
+- You have a fireplace, firepit, sawmill, or some other use for the wood.
+- You're slightly less able, but have access to help such as teenage kids or grandkids, friends and neighbors, or fellow church members.
+- You live in an area without proper parking for multiple large commercial vehicles, trailers, and equipment.
+
+If, however, you can afford to sit on your front porch sipping sweet tea while watching a full-service company trim your trees, we might not be for you.
