@@ -40,7 +40,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
-              <p>If you'd like to set up a free estimate, please be sure to include your address and phone number. <br />Not a fan of contact forms? Feel free to call or text my cell: <a href="tel:208-761-4474">208-761-4474</a></p>
+              <p>If you'd like to set up a free estimate, please be sure to include your address and phone number. <br />Not a fan of contact forms? Feel free to <a href="tel:803-402-3736">call</a> or <a href="sms:803-402-3736">text</a> my cell: <a href="tel:803-402-3736">803-402-3736</a></p>
               <p></p>
               <form
                 name="contact"
