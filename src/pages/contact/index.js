@@ -40,6 +40,8 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
+              <p>If you'd like to set up a free estimate, please be sure to include your address and phone number. <br />Not a fan of contact forms? Feel free to call or text my cell: <a href="tel:208-761-4474">208-761-4474</a></p>
+              <p></p>
               <form
                 name="contact"
                 method="post"
@@ -83,6 +85,36 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={'email'}
                       required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'name'}>
+                    Phone
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'phone'}
+                      onChange={this.handleChange}
+                      id={'phone'}
+                      required={false}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'name'}>
+                    Address
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'address'}
+                      onChange={this.handleChange}
+                      id={'address'}
+                      required={false}
                     />
                   </div>
                 </div>
